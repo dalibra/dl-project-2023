@@ -9,7 +9,7 @@ To address this problem, we propose a new feature called Multiversal pictures, w
 We expected that our approach increases the accuracy of fake news detection compared to existing methods.
 
 ## Usage
-You can find the execution in `.ipynb` files of corresponding folders, for example, experiments for web scarping are in `scraper/web_scarping_experiments.ipynb`.
+You can find the execution in `.ipynb` files in corresponding folders, for example, experiments for web scarping are in `scraper/web_scarping_experiments.ipynb`.
 
 ## Main results
 
