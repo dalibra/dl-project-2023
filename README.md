@@ -9,7 +9,11 @@ To address this problem, we propose a new feature called Multiversal pictures, w
 We expected that our approach increases the accuracy of fake news detection compared to existing methods.
 
 ## Usage
-All the losses are implenented in `utils.py` as separate classes. You can find the execution in `experiments.ipynb`.
+You can find the execution in `.ipynb` files of corresponding folders, for example, experiments for web scarping are in `scraper/web_scarping_experiments.ipynb`.
+
+## Main results
+
+## Conclusion
 
 ## Team True NLP Detectives:
 - Alexander Kharitonov
