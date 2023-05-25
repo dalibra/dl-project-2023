@@ -10,3 +10,9 @@ We expected that our approach increases the accuracy of fake news detection comp
 
 ## Usage
 All the losses are implenented in `utils.py` as separate classes. You can find the execution in `experiments.ipynb`.
+
+## Team True NLP Detectives:
+- Alexander Kharitonov
+- Danil Gusak
+- Dmitriy Kornilov
+- Alina Bogdanova
