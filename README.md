@@ -14,9 +14,9 @@ You can find the execution in `.ipynb` files in corresponding folders, for examp
 ## Main results
 
 ## Conclusion
--Image features allow to increase quality of fake news detection
--Results should be validated on more datasets
--CLIP similarities may be added to the feature set
+- Image features allow to increase quality of fake news detection
+- Results should be validated on more datasets
+- CLIP similarities may be added to the feature set
 
 
 ## Team True NLP Detectives:
