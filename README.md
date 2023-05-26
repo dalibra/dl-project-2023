@@ -12,6 +12,33 @@ We expected that our approach increases the accuracy of fake news detection comp
 You can find the execution in `.ipynb` files in corresponding folders, for example, experiments for web scarping are in `scraper/web_scarping_experiments.ipynb`.
 
 ## Main results
+<table>
+<thead>
+  <tr>
+    <th> </th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1-score</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>Text features (baseline)</b></td>
+    <td><b>0.801</b></td>
+    <td><b>0.8</b></td>
+    <td><b>0.8</b></td>
+  </tr>
+</tbody>
+<tbody>
+  <tr>
+    <td><b>Text+Image features</b></td>
+    <td><b>0.81</b></td>
+    <td><b>0.83</b></td>
+    <td><b>0.82</b></td>
+  </tr>
+</tbody>
+</table>
+
 
 ## Conclusion
 - Image features allow to increase quality of fake news detection
