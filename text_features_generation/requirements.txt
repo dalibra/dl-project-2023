@@ -1,10 +1,11 @@
-glob
+glob2
 pandas
-re
-pickle
+regex
 numpy
-collections
 liwc
 transformers
 tqdm
 gdown
+torch 
+torchvision 
+torchaudio
